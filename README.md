@@ -1,4 +1,4 @@
-# webdesigntask
+# Web-Template
 
 Step 1: Get the Clone of this project in to your system by using this url "https://github.com/AMOIZ0866/webdesigntask.git"
 
